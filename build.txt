@@ -1,0 +1,1 @@
+fbfrog dw.h -inclib dw -rename_ next -rename_ data -rename_ width -rename_ type -rename_ day -rename_ month -rename_ year -rename_ ptr -rename_ str -rename_ len -rename_ window -rename_ point -rename_ line -rename_ pointer -rename_ end -rename_ function -rename_ color -rename_ format -rename_ name -rename_ print -rename_ wstring -rename_ DW_MENU_POPUP
